@@ -1,0 +1,52 @@
+body {
+  background-image: url("../img/bg.png");
+  color: white;
+}
+
+.about-decs {
+  font-family: "Assistant", sans-serif;
+  font-size: 15pt;
+}
+
+.about-head {
+  font-family: "Playfair Display", serif;
+
+  font-weight: bold;
+}
+
+#about {
+  padding-top: 100px;
+}
+#works {
+  padding-top: 100px;
+}
+#service {
+  padding-top: 100px;
+}
+#certification {
+  padding-top: 100px;
+}
+#contact {
+  padding-top: 100px;
+}
+.card-body {
+  color: black;
+}
+
+.decs {
+  font-family: "Assistant", sans-serif;
+  color: black;
+  padding-top: 50px;
+}
+
+.cardcontact {
+  background-color: rgb(141, 141, 141);
+}
+
+.ccontact{
+  color: white;
+}
+
+.imgcontact {
+  padding-top: 20px;
+}
